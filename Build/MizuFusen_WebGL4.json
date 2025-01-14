@@ -1,0 +1,14 @@
+{
+"companyName": "Arc-jormu Deproiment",
+"productName": "DIZZYøuXXXIT?水風船バトル",
+"dataUrl": "MizuFusen_WebGL4.data.unityweb",
+"asmCodeUrl": "MizuFusen_WebGL4.asm.code.unityweb",
+"asmMemoryUrl": "MizuFusen_WebGL4.asm.memory.unityweb",
+"asmFrameworkUrl": "MizuFusen_WebGL4.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
